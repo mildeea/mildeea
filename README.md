@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mildred
-- 👀 I’m interested in web applications both front end and backend and devops and databases
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on any web applications
+- 👀 Full-stack engineer: Typescript and Python
+- 🌱 PhD in Numerical Analysis
 - 📫 How to reach me aduamoahmildred@gmail.com
 
 <!---
